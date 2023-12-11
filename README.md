@@ -1,6 +1,6 @@
 # Hi there!👋 Welcome to my profile! 
 
-## 🔭 **Professional Summary:**
+## 💻**Professional Summary:**
 I am a recent PhD graduate in theoretical physics, passionate about applying my analytical and problem-solving skills to real-world industry challenges.
 
 ## 🤖🤖 **Areas of Expertise:**
